@@ -1,5 +1,5 @@
 # Naval-battle-Game
-**Game Development:**
+```**Game Development:**```
  An interactive Naval Battle game was implemented, allowing players to define the size of the board and position their ships.
  
 **Input Validation:**
