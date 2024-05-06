@@ -17,7 +17,7 @@ Features have been implemented to write the current game state to a file and loa
 ```Game Logic:```
  Game logic was developed to manage the alternation of turns between the player and the computer, check whether a ship has been hit, and determine when the game ends.
  
- This project demonstrates skills in game development, array manipulation, user input validation, and reading/writing files in Kotlin. Furthermore, it shows the ability to create an intuitive user interface and develop complex game logic._
+ This project demonstrates skills in game development, array manipulation, user input validation, and reading/writing files in Kotlin. Furthermore, it shows the ability to create an intuitive user interface and develop complex game logic.
 
 **AUTHORS:**
 - https://github.com/bernardojeronimo
