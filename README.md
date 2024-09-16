@@ -21,4 +21,4 @@ Features have been implemented to write the current game state to a file and loa
 
 **AUTHORS:**
 - https://github.com/bernardojeronimo
-- https://github.com/frederic0Sant0s
+- https://github.com/frederic0Santos
